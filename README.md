@@ -2,6 +2,7 @@
 
 Tool for resize images to standard Android dpi
 
+```markdown
 ### Supported Android dpi
 
 - ldpi
@@ -10,6 +11,7 @@ Tool for resize images to standard Android dpi
 - xhdpi
 - xxhdpi
 - xxxhdpi
+```
 
 ```markdown
 Syntax highlighted code block
