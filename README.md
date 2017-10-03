@@ -1,6 +1,7 @@
 # Android Image Resizer
+### Tool for resize images to standard Android dpi ###
+*powered by Beltrorama*
 
-Tool for resize images to standard Android dpi
 
 #### Supported Android dpi:
 ``` markdown
