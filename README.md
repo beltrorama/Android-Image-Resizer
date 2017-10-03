@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## Android Image Resizer
 
-You can use the [editor on GitHub](https://github.com/beltrorama/Android-Image-Resizer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Tool for resize images to standard Android dpi
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Supported Android dpi
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- ldpi
+- mdpi
+- hdpi
+- xhdpi
+- xxhdpi
+- xxxhdpi
 
 ```markdown
 Syntax highlighted code block
