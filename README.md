@@ -3,7 +3,7 @@
 Tool for resize images to standard Android dpi
 
 ```markdown
-**Supported Android dpi**
+Supported Android dpi
 
 - ldpi
 - mdpi
