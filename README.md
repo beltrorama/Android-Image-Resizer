@@ -11,4 +11,5 @@
 - xhdpi
 - xxhdpi
 - xxxhdpi
+* - customization sizes (insert in file sizes.ini)*
 ```
