@@ -1,5 +1,6 @@
 ---
 title: "Android Image Resizer"
+version: "1.1"
 author: "Beltrorama"
 date: "2020-02-02"
 ---
